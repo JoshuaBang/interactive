@@ -1,2 +1,2 @@
 # interactive
-interactive html workshop
+interactive html workshop tutorial
